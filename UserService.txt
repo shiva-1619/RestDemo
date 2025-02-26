@@ -1,1 +1,2 @@
 Get the user data from the rest api calls
+Process the fetched data
